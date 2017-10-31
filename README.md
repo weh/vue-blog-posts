@@ -1,5 +1,5 @@
 # vue-blog-posts
-blog posts for vue.js github page
+blog posts for vue.js github page http://weh.li/
 
 ## License
 
